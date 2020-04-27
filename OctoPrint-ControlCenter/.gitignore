@@ -1,0 +1,12 @@
+*.pyc
+*.swp
+.idea
+*.iml
+build
+dist
+*.egg*
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+*.zip
